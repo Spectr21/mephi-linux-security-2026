@@ -1,0 +1,4 @@
+    PID    PPID  RUID  EUID RUSER    EUSER    COMMAND         COMMAND
+   3143    3133  1000     0 vagrant  root     sudo            sudo -u user1 passwd
+   3144    3143  1000     0 vagrant  root     sudo            sudo -u user1 passwd
+   3145    3144  1234     0 user1    root     passwd          passwd
